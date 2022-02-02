@@ -1,3 +1,5 @@
+ (Mettre les titres en gras)
+ 
  1. Titre de l'oeuvre ou de la réalisation
 
  2. Nom de l'artiste ou de la firme
