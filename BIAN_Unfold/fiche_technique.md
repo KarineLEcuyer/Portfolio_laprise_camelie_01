@@ -32,9 +32,9 @@
  
  Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'installation immersive et sensorielle de Ryoichi Kurokawa, cherche à traduire en sons, images et vibrations, les phénomènes entourant la formation et l'évolution des étoiles. Avec *unfold*, Ryoichi Kurokawa s'intéresse à la synesthésie, en fusionnant les matériaux sonores et visuels , au service d'un projet art/science inspiré des découvertes récentes. 
  
- Ce texte est tiré du cartel affiché par Arsenal art contemporain accompagnant l'oeuvre *Unfold*
+ (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
  
- # intégré photo du cartel
+ ### intégré photo du cartel
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
