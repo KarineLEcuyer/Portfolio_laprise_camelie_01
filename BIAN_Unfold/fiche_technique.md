@@ -65,7 +65,7 @@
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
- Ce qui m'a particulièrment plu de *Unfold* est le sens du toucher qui est abordé dans cette prestation audiovisuelle. 
+ Ce qui m'a particulièrement plu de *Unfold* est le sens du toucher qui est abordé dans cette prestation audiovisuelle. 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
