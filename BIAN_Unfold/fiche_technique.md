@@ -38,26 +38,30 @@
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
- L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Ensuite, une petite scène rectangulaire fait face à cette architecture afin de nous inviter à aller nous asseoir. L’écart que sépare ce rectangle et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de trois gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, puis un derrière la scène pointant vers l'architecture. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long de l’extrémité du tapis de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière la structure visuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *Unfold*. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers.
+ L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Ensuite, une plateforme fait face à cette architecture afin de nous inviter à aller nous asseoir. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de trois gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, puis un derrière la plateforme pointant vers l'architecture. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *Unfold*. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers.
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
  
- 1. Trois écrans
- 2. Une petite scène rectangulaire 
- 3. Trois haut-parleurs
- 4. Quatre minces tapis noirs
- 5. Huit poteaux de canalisation attachés par une sangle
+ 1. Vidéos
+ 2. Trame sonore
 
  ## Liste des éléments nécessaires pour la mise en exposition 
  
- 1. Câbles
- 2. Ruban-cache noir
- 3. Chache-fil
- 4. Section régie
+ 1. Trois écrans
+ 2. Plateforme 
+ 3. Trois haut-parleurs
+ 4. Quatre tapis
+ 6. Câbles
+ 7. Ruban-cache noir
+ 8. Chache-fil
+ 9. Section régie
+ 10. Huit plateaux de canalisation attachés par une sangle
 
  ## Expérience vécue :
 
  ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ 
+ J’ai grandement apprécié l’expérience offerte par l’œuvre proposée par Ryoichi Kurosawa. Avant de me rapprocher de cette présentation numérique, je croyais qu’il s’agissait uniquement d’une œuvre audiovisuelle et donc qu’il suffisait seulement d’observer les diverses images projetées pour se plonger dans cet univers étoilé. Cependant, en m’assoyant sur la scène, j’ai découvert, à mon plus grand étonnement, un élément de cette installation que je ne soupçonnais pas ; je ressentais l’ensemble des vibrations émises par les sons produits par *Unfold*. Toutes ces sensations m’ont permis d’être davantage immergée dans cette œuvre audiovisuelle. 
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
