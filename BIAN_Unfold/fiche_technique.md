@@ -64,6 +64,8 @@
  J’ai grandement apprécié l’expérience offerte par l’œuvre proposée par Ryoichi Kurosawa. Avant de me rapprocher de cette présentation numérique, je croyais qu’il s’agissait uniquement d’une œuvre audiovisuelle et donc qu’il suffisait seulement d’observer les diverses images projetées pour se plonger dans cet univers étoilé. Cependant, en m’assoyant sur la scène, j’ai découvert, à mon plus grand étonnement, un élément de cette installation que je ne soupçonnais pas ; une immersion stimulant le sens du toucher. En effet, quand je me suis assise, j'ai ressenti l’ensemble des vibrations émises par les sons produits par *Unfold*. Toutes ces sensations m’ont permis d’avoir une expérience davantage immersive et amusante.  
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ 
+ Ce qui m'a particulièrment plu de *Unfold* est le sens du toucher qui est abordé dans cette prestation audiovisuelle. 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
