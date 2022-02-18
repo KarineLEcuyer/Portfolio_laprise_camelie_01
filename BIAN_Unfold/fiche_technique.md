@@ -36,13 +36,23 @@
  
  ### intégré photo du cartel
 
- ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+ ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
- L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Ensuite, une petite scène rectangulaire fait face à cette architecture afin de nous inviter à aller nous asseoir. L’écart que sépare ce rectangle et les écrans est tapissé par de minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de trois gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, puis un derrière la scène pointant vers l'architecture. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long de l’extrémité du tapis de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière la structure visuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *Unfold*. 
+ L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Ensuite, une petite scène rectangulaire fait face à cette architecture afin de nous inviter à aller nous asseoir. L’écart que sépare ce rectangle et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de trois gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, puis un derrière la scène pointant vers l'architecture. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long de l’extrémité du tapis de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière la structure visuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *Unfold*. 
 
- ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+ 
+ 1. Trois écrans
+ 2. Une petite scène rectangulaire 
+ 3. Trois haut-parleurs
+ 4. Quatre minces tapis noirs
 
- ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ ## Liste des éléments nécessaires pour la mise en exposition 
+ 
+ 1. Câbles
+ 2. Ruban-cache noir
+ 3. Chache-fil
+ 4. Section régie
 
  ## Expérience vécue :
 
