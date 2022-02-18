@@ -69,5 +69,7 @@
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
+ Je ne souhaite pas retenir la plateforme, parce que je trouve que cela est encombrant et ne permet pas d’expérimenter tous les côtés qu’offrent le sens du toucher. 
+ 
  ## Références
  
