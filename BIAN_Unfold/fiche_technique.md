@@ -38,16 +38,15 @@
  
  (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
  
- (medias/photo_du_cartel.jpg.md)
+ ![image du cartel](medias/photo_du_cartel.jpg)
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
- 
+ ![image de l'oeuvre](medias/photo_de_l_oeuvre.jpg)
  
  L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Ensuite, une plateforme fait face à cette architecture afin de nous inviter à aller nous asseoir. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de trois gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, puis un derrière la plateforme pointant vers l'architecture. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *Unfold*. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers.
  
- ![image_de_la_regie](medias/photo_de_la_regie.jpg)
- ### intégré images Unfold
+ ![image de la regie](medias/photo_de_la_regie.jpg)
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
  
