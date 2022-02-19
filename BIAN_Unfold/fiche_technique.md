@@ -1,14 +1,10 @@
  ## Titre de l'oeuvre ou de la réalisation
  
  *Unfold*
- 
- ### intérgré image de l'oeuvre 
 
  ## Nom de l'artiste ou de la firme
  
  Ryoichi Kurokawa
- 
- ### intégré image de l'artiste
 
  ## Année de réalisation
  
@@ -37,16 +33,11 @@
  Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'installation immersive et sensorielle de Ryoichi Kurokawa, cherche à traduire en sons, images et vibrations, les phénomènes entourant la formation et l'évolution des étoiles. Avec *unfold*, Ryoichi Kurokawa s'intéresse à la synesthésie, en fusionnant les matériaux sonores et visuels , au service d'un projet art/science inspiré des découvertes récentes. 
  
  (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
- 
- ![image du cartel](medias/photo_du_cartel.jpg)
+
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
- ![image de l'oeuvre](medias/photo_de_l_oeuvre.jpg)
- 
- L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Celui se trouvant au-dessus de tous est retenu par deux câbles de soutien, c'est-à-dire en haut de chaque extémité, qui sont suspendus au plafond. Ensuite, une plateforme fait face à cette architecture afin d'inviter les visiteurs à aller s'asseoir. Elle permet de stimuler leur sens du toucher en transmettant les vibrations de l'installation multimédia. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de quatre gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, un autre derrière la plateforme pointant vers l'architecture, puis un dernier derrière les écrans. Ils stimulent le sens de l'ouïe en renvoyant différents sons. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *unfold*. On y trouve également un projecteur diffusant les nombreuses images accompagnant cette œuvre et stimulant ainsi le sens de la vue. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers.
- 
- ![image de la regie](medias/photo_de_la_regie.jpg)
+ L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Celui se trouvant au-dessus de tous est retenu par deux câbles de soutien, c'est-à-dire en haut de chaque extémité, qui sont suspendus au plafond. Ensuite, une plateforme fait face à cette architecture afin d'inviter les visiteurs à aller s'asseoir. Elle permet de stimuler leur sens du toucher en transmettant les vibrations de l'installation multimédia. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de quatre gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, un autre derrière la plateforme pointant vers l'architecture, puis un dernier derrière les écrans. Ils stimulent le sens de l'ouïe en renvoyant différents sons. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *unfold*. On y trouve également un projecteur diffusant les nombreuses images accompagnant cette œuvre et stimulant ainsi le sens de la vue. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers. 
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
  
