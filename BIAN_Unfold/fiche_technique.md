@@ -38,7 +38,7 @@
  
  (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
  
- ### intégré photo du cartel
+ ![image du cartel](medias/photo_du_cartel.jpg)
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
