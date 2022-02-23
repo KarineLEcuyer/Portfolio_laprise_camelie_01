@@ -85,7 +85,7 @@
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
- Ce qui m'a particulièrement plu de *unfold* est le sens du toucher qui est abordé dans cette prestation audiovisuelle. Je pense à des actions réalisées dans un décor fictif projeté sur des écrans tactiles munis d'haut-parleurs englobant l'utilisateur stimulant les mêmes sens que celui de l'œuvre de Ryoichi Kurosawa, soient l'ouïe, la vue et le toucher. Pour se déplacer, cela se ferait sur un tapis roulant multidirectionnel. Il est plutôt rare d'incorporer le sens du toucher à une œuvre ainsi je voudrais me mettre au défi de l'offrir.  
+ Ce qui m'a particulièrement plu de *unfold* est le sens du toucher qui est abordé dans cette prestation audiovisuelle. Ainsi cela m'a donnée des idées. Par exemple, des actions réalisées dans un décor fictif projeté sur des écrans tactiles munis d'haut-parleurs englobant l'utilisateur stimulant les mêmes sens que celui de l'œuvre de Ryoichi Kurosawa, soient l'ouïe, la vue et le toucher. Pour se déplacer, cela se ferait sur un tapis roulant multidirectionnel. Il est plutôt rare d'incorporer le sens du toucher à une œuvre, donc je voudrais me mettre au défi de l'offrir.  
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
