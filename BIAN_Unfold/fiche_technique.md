@@ -53,7 +53,7 @@
 
  ## Liste des éléments nécessaires pour la mise en exposition 
  
- ![croquis de la mise en espace de l'oeuvre](medias/photographies/photo_croquis_oeuvre.jpg)
+ ![croquis de la mise en espace de l'oeuvre](medias/croquis/photo_croquis_oeuvre.jpg)
  
  ![image des éléments nécessaires pour la mise en exposition](medias/photographies/photo_elements_mis_en_disposition.jpg)
  
