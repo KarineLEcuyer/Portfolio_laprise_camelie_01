@@ -34,13 +34,13 @@
  
  (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
 
-![image du cartel](medias/photo_cartel.jpg)
+![image du cartel](medias/photographies/photo_cartel.jpg)
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
  
- ![image de l’ensemble de l’oeuvre de devant](medias/photo_oeuvre_ensemble.jpg)
+ ![image de l’ensemble de l’oeuvre de devant](medias/photographies/photo_oeuvre_ensemble.jpg)
  
- ![image de l’ensemble de l’oeuvre de derrière](medias/photo_oeuvre_ensemble_derriere.jpg)
+ ![image de l’ensemble de l’oeuvre de derrière](medias/photographies/photo_oeuvre_ensemble_derriere.jpg)
  
  L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Celui se trouvant au-dessus de tous est retenu par deux câbles de soutien, c'est-à-dire en haut de chaque extémité, qui sont suspendus au plafond. Ensuite, une plateforme fait face à cette architecture afin d'inviter les visiteurs à aller s'asseoir. Elle permet de stimuler leur sens du toucher en transmettant les vibrations de l'installation multimédia. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de quatre gros haut-parleurs sur pied, soit deux sur les côtés droit et gauche, un autre derrière la plateforme pointant vers l'architecture, puis un dernier derrière les écrans. Ils stimulent le sens de l'ouïe en renvoyant différents sons. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *unfold*. On y trouve également un projecteur diffusant les nombreuses images accompagnant cette œuvre et stimulant ainsi le sens de la vue. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers. 
 
@@ -49,11 +49,13 @@
  1. Vidéos
  2. Trame sonore
  
- ![image des composantes](medias/photo_regie.jpg)
+ ![image des composantes](medias/photographies/photo_regie.jpg)
 
  ## Liste des éléments nécessaires pour la mise en exposition 
  
- ![image des éléments nécessaires pour la mise en exposition](medias/photo_elements_mis_en_disposition.jpg)
+ ![croquis de la mise en espace de l'oeuvre](medias/photographies/photo_croquis_oeuvre.jpg)
+ 
+ ![image des éléments nécessaires pour la mise en exposition](medias/photographies/photo_elements_mis_en_disposition.jpg)
  
  1. Trois écrans
  2. Deux câbles de soutien
@@ -67,13 +69,13 @@
  10. Projecteur
  11. Huit plateaux de canalisation attachés par une sangle
 
-![image des câbles utilisés](medias/photo_cables.jpg)
+![image des câbles utilisés](medias/photographies/photo_cables.jpg)
 
-![image du ruban-cache noir](medias/photo_ruban_cache.jpg)
+![image du ruban-cache noir](medias/photographies/photo_ruban_cache.jpg)
 
-![image du cache-fil](medias/photo_cache_fil.jpg)
+![image du cache-fil](medias/photographies/photo_cache_fil.jpg)
 
-![image de la régie](medias/photo_regie2.0.jpg)
+![image de la régie](medias/photographies/photo_regie2.0.jpg)
 
  ## Expérience vécue :
 
@@ -89,5 +91,4 @@
  
  Je ne souhaite pas retenir la plateforme, parce que je trouve que cela est encombrant et ne permet pas d’expérimenter tous les côtés qu’offrent le sens du toucher. 
  
- ## Références
  
