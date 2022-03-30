@@ -43,6 +43,8 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
 
 ![Image de la scène de 8h](medias/photographies/photo_scene_8.png) 
 
+Ces deux photographies sont tirées de la gallerie d'images de la page dédiée à *L'horloge de l'apocalypse* sur le site Web de TIM
+
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
  ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
