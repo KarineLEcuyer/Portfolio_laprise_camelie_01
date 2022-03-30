@@ -39,11 +39,17 @@ La présentation se fait dans une salle à part des autres projets, c'est-à-dir
  ## Expérience vécue :
 
  ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ 
+J'avais déjà eu un avant-goût des décors et de leurs musiques, mais j'ai tout de même été agréablement surprise de la disposition des éléments et du résultat final. Je me suis vraiment sentie interpellée par les scènes qui proposent, au commencement, un monde de paix où la nature règne pour éventuellement laisser place à un monde de guerre où la destruction domine. L'aspect visuel me sensibilise davantage, puisque c'est alors que je réussis à réellement voir les impacts des gestes que l'on commet. 
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ 
+Ce qui m'a majoritairement plu est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
+Malgré le fait qu'il s'agit d'une bonne idée, je ne souhaiterais pas retenir la dernière partie du projet, c'est-à-dire lorsque l'on projète l'intéracteur qui décroche le téléphone, car cela ne plaît pas à tout le monde, spécialement les plus timides d'entre nous, d'être celui sur lequel les regards sont dirigés.
+
  ## Références
  
 
