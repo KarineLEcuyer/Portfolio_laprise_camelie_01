@@ -44,7 +44,7 @@ J'avais déjà eu un avant-goût des décors et de leurs musiques, mais j'ai tou
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
-Ce qui m'a majoritairement plu est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et de bien comprendre de quoi il s'agit. Aucun regret ni confusion s'en suit ainsi le message est sûr d'être intercepté. 
+Ce qui m'a majoritairement plu est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et de bien comprendre de quoi il s'agit. Aucun regret ni confusion s'en suit ainsi le message est sûr d'être intercepté. C'est très bénéfique quand l'objectif est de sensibiliser le public.  
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
