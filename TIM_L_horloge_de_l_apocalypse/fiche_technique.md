@@ -16,7 +16,7 @@
 
  ## Lieu de mise en exposition
  
- Studio C-1712, 475 Blvd de l'Avenir, Laval
+ Petit studio de son au Collège Montmorency
 
  ## Date de votre visite
  
