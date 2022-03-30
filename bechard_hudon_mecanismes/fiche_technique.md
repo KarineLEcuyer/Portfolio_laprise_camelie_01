@@ -26,6 +26,8 @@
 
 S'activant via des détecteurs de mouvement, les sculptures murales qui composent la série Mécanismes de dessaisissement tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une au moyen d'un logiciel, les fines rayures qui caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l'expérience visuelle dans le temps. Par ailleurs, les dispositifs électromécaniques qui alimentent ces structures sont laissés visibles de façon à déjouer la pureté formelle de l'ensemble, entre autres à travers les lignes plus aléatoires que dessinent les fils électriques. 
 
+(Ce texte est tiré du cartel d'exposition de la salle Alfred-Pellan)
+
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
  
