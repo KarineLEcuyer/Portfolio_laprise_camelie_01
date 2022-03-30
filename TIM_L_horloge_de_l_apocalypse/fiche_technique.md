@@ -64,7 +64,9 @@ Malgré le fait qu'il s'agit d'une bonne idée, je ne souhaiterais pas retenir l
 
  ## Références
  
+Github 
 
+[Lien vers le Github de L'horloge de l'apocalypse](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
 
 
