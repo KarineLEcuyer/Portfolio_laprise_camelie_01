@@ -26,8 +26,7 @@
  
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
  
- Ce texte est tiré du résumé fait par l'équipe ayant réalisé l'oeuvre sur la page dédiée à [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
-
+ Ce texte est tiré du résumé fait par l'équipe ayant réalisé l'oeuvre sur la page dédiée à [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) sur le site Web de TIM
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
  **Vu d'ensemble de l'expérience**
@@ -66,9 +65,11 @@ Malgré le fait qu'il s'agit d'une bonne idée, je ne souhaiterais pas retenir l
  
 Github 
 
-[Lien vers le Github de L'horloge de l'apocalypse](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+[Lien vers le Github de *L'horloge de l'apocalypse*](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
+Site Web de TIM
 
+[Lien vers la page de renseignements de *L'horloge de l'apocalypse*](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
 
 
