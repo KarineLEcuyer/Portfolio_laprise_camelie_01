@@ -32,6 +32,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
  **L'ensemble de l'expérience**
  ![Image d'ensemble de l'expérience](medias/photographies/photo_general_experience.png)
+ 
  **La fin de l'expérience**
  ![Image de la fin de l'expérience](medias/photographies/photo_fin_experience.png)
  
@@ -39,7 +40,8 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
 
 **Scène de 2h**
 ![Image de la scène de 2h](medias/photographies/photo_scene_2.png)
-**Scéne de 8h**
+
+**Scène de 8h**
 ![Image de la scène de 8h](medias/photographies/photo_scene_8.png) 
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
