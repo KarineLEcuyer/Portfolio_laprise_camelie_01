@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre ou de la réalisation
+ ## Titre de l'oeuvre
  
- *Mécanismes de dessaisissement ( rond, carré, triangle)*
+ *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- ## Nom de l'artiste ou de la firme
+ ## Nom des artistes
  
  Catherine Béchard et Sabin Hudon
 
@@ -10,7 +10,7 @@
  
  2019-2020
 
- ## Nom de l'exposition ou de l'événement
+ ## Nom de l'exposition
 
  Béchard Hudon - Configurations du sensible
 
@@ -27,6 +27,8 @@
 S'activant via des détecteurs de mouvement, les sculptures murales qui composent la série Mécanismes de dessaisissement tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une au moyen d'un logiciel, les fines rayures qui caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l'expérience visuelle dans le temps. Par ailleurs, les dispositifs électromécaniques qui alimentent ces structures sont laissés visibles de façon à déjouer la pureté formelle de l'ensemble, entre autres à travers les lignes plus aléatoires que dessinent les fils électriques. 
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+ 
+ 
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
