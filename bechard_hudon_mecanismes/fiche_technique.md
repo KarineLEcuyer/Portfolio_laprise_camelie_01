@@ -30,7 +30,9 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
  
+L'oeuvre des artistes mentionnés précédemment est composée de trois installations distinctes qui représentent tous une forme géométrique, soit le carré, le triangle ou le cercle. Ces derniers prennent la largeur d'un mur de la salle d'exposition et sont séparés par une certaine distance. Ils se présentent tels des structures murales tridimensionnelles dû à leur superposition. D'abord, leur forme respective est délimitée en grand au mur avec du ruban noir créant ainsi un effet de profondeur. Ensuite, un morceau de bois coupé selon cette même forme sert de soutient aux plaques d'acrylique et permet de faire, notamment ressortir ces dernières du fond, mais également de 
  
+ respective
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
