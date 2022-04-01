@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre
+ ## Titre de l'oeuvre ou de la réalisation
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- ## Nom des artistes
+ ## Nom de l'artiste ou de la firme
  
  Catherine Béchard et Sabin Hudon
 
