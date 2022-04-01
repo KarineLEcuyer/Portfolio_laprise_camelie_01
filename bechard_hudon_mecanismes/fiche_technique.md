@@ -60,7 +60,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
 
  ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
  
- **Moi et mes amies lors de l'exposition**
+ **Moi et mes amies devant la structure murale du rond de** ***Mécanismes de dessaisissement (rond, carré, triangle)***
  
 ![Image de moi et mes amies à l'exposition](medias/photographies/photo_de_soi.jpg)
  
