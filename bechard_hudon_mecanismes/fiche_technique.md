@@ -45,3 +45,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
  ## Références
+
+Site Web 
+
+[Lien vers le site de Catherine Béchard et Sabin Hudon](https://bechardhudon.com/)
