@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre
+ ## Titre de l'oeuvre ou de la réalisation
  
  Collecteur de mémoires 
 
- ## Nom de la firme
+ ## Nom de l'artiste ou de la firme
  
  Moment Factory
 
