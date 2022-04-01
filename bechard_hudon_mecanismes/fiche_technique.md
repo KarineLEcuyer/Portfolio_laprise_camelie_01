@@ -44,9 +44,11 @@ Durant la visite des oeuvres réalisées par les artistes en question, *Mécanis
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
- Ce qui m'a plus de *Mécanismes de dessaisissement (rond, carré, triangle)* est 
+Ce qui m'a plu de *Mécanismes de dessaisissement (rond, carré, triangle)* est l'idée d'inclure une illusion d'optique à l'oeuvre, car elle amène une particularité de plus à l'oeuvre ce qui la rend davantage unique et lui permet de se démarquer des autres oeuvres. Ainsi, pousser son idée jusqu'au bout en développant une individualité à son oeuvre serait un concept à conserver et à reproduire. 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ 
+ Je ne souhaiterais pas conserver le fait de laisser autant de fils apparents, je trouve personnellement que cela enlève un certain esthétique à l'oeuvre. 
  
  ## Références
 
