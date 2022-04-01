@@ -48,7 +48,7 @@ Ce qui m'a plu de *Mécanismes de dessaisissement (rond, carré, triangle)* est 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
- Je ne souhaiterais pas conserver le fait de laisser autant de fils apparents, je trouve personnellement que cela enlève un certain esthétique à l'oeuvre. 
+ Je ne souhaiterais pas conserver le fait de laisser autant de fils visibles, je trouve personnellement que cela enlève un certain esthétique à l'oeuvre. 
  
  ## Références
 
