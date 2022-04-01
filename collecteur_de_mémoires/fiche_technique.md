@@ -22,7 +22,7 @@
  
  16 février 2022
 
- ## Description de l'oeuvre 
+ ## Description de l'oeuvre ou du dispositif multimédia
 
 Le musée Pointe-à-Callière a mandaté Moment Factory pour mettre en valeur le premier égout collecteur érigé en Amérique du Nord, un joyau historique d’ingénierie civile.
 
@@ -41,8 +41,12 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  ## Expérience vécue :
 
  ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ 
+J'avais très hâte de visiter ce lieu historique devenu une expérience immersive ouverte au public. Lorsque je suis entrée à l'intérieur de l'égoût, l'ambiance créée par les lumières m'a vraiment charmée. Cela amène un contraste entre la répugnance d'un égoût, généralement froid, sombre et dégoûtant. Je me sentais dans un autre monde, un peu fantaisiste, qui sort de l'ordinaire. Le parcours est surprenamment plus long que ce que j'imaginais même si je crois que pour certains il est trop court. La musique nous plonge davantage dans cet endroit féerique où le moindre bruit résonne. Cela approfondit d'autant plus cette sensation d'éloignement de la réalité qui est le monde extérieur. 
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ 
+ 
 
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
