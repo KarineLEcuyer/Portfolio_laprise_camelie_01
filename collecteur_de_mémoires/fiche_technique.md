@@ -10,15 +10,19 @@
  
  2017
 
- ## Nom de l'exposition ou de l'événement
+ ## Nom de l'exposition 
  
- 
+ Collecteur de mémoires
 
  ## Lieu de mise en exposition
+ 
+ Musée Pointe-à-Callière
 
  ## Date de votre visite
+ 
+ 16 février 2022
 
- ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+ ## Description du dispositif multimédia 
 
 Le musée Pointe-à-Callière a mandaté Moment Factory pour mettre en valeur le premier égout collecteur érigé en Amérique du Nord, un joyau historique d’ingénierie civile.
 
