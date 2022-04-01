@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre
+ ## Titre de l'oeuvre ou de la réalisation
  
  L'horloge de l'apocalypse
 
- ## Nom des artistes
+ ## Nom de l'artiste ou de la firme
  
  Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
