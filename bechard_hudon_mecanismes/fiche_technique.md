@@ -40,7 +40,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
 
  ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
  
-J'ai vraiment apprécié la visite des oeuvres réalisées par ces artistes. *Mécanismes de dessaisissement (rond, carré, triangle)* a attiré mon regard tout particulièrement dû à l'espace qu'il prennait ainsi que ses couleurs, absentes sur la majorité des autres oeuvres. En me rapprochant, les détails offerts dans les lignes et le mouvement des plaques d'acrylique m'ont beaucoup captivés. Ces structures murales se rendent uniques par leur complexité épurée, car malgré les manoeuvres complexes, les installations en elles-mêmes restent simples, en d'autres mots, qu'elles ne sont pas surchargées d'éléments venant à irriter le public.  
+Durant la visite des oeuvres réalisées par ces artistes, *Mécanismes de dessaisissement (rond, carré, triangle)* a tout particulièrement attiré mon regard dû à l'espace qu'il prenait ainsi que ses couleurs, absentes sur la majorité des autres oeuvres. En me rapprochant, les détails offerts dans les lignes et le mouvement des plaques d'acrylique m'ont beaucoup captivés. Ces structures murales se rendent uniques par leur complexité épurée, car malgré les manoeuvres complexes, les installations en elles-mêmes restent simples, en d'autres mots, qu'elles ne sont pas surchargées d'éléments venant à irriter le public.  
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
