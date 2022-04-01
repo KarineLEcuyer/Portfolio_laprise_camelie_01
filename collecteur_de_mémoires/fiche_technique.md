@@ -1,4 +1,4 @@
- ## Titre de la réalisation
+ ## Titre de l'oeuvre
  
  Collecteur de mémoires 
 
@@ -22,7 +22,7 @@
  
  16 février 2022
 
- ## Description du dispositif multimédia 
+ ## Description de l'oeuvre 
 
 Le musée Pointe-à-Callière a mandaté Moment Factory pour mettre en valeur le premier égout collecteur érigé en Amérique du Nord, un joyau historique d’ingénierie civile.
 
@@ -47,3 +47,9 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
  ## Références
+ 
+ Site Web
+ 
+ [Lien vers la page Web du *Collecteur de mémoires* sur le site de *Moment Factory*](https://momentfactory.com/projets/tous/tous/collecteur-de-memoires)
+ 
+ [Lien vers la page Web du *Collecteur de mémoires* sur le site du musée Pointe-à-Callière](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
