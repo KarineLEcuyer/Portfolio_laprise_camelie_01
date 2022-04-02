@@ -64,7 +64,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  
 ![Image de moi et mes amies à l'exposition](medias/photographies/photo_de_soi.jpg)
  
-Durant la visite des oeuvres réalisées par les artistes en question, *Mécanismes de dessaisissement (rond, carré, triangle)* a tout particulièrement attiré mon regard dû à l'espace qu'il prenait ainsi que ses couleurs, absentes sur la majorité des autres oeuvres. En me rapprochant, les détails offerts dans les lignes et le mouvement des plaques d'acrylique m'ont beaucoup captivés. Ces structures murales se rendent uniques par leur complexité épurée, car malgré les manoeuvres complexes, les installations en elles-mêmes restent simples, en d'autres mots, elles ne sont pas surchargées d'éléments venant à irriter le public. J'ai été d'autant plus fascinée par ces compositions lorsque l'on nous a avertit de l'illusion d'optique présentes dans celles-ci.
+Durant la visite des oeuvres réalisées par les artistes en question, *Mécanismes de dessaisissement (rond, carré, triangle)* a tout particulièrement attiré mon regard dû à l'espace qu'il prenait ainsi que ses couleurs, absentes sur la majorité des autres oeuvres. En me rapprochant, les détails offerts dans les lignes et le mouvement des plaques d'acrylique m'ont beaucoup captivés. Ces structures murales se rendent uniques par leur complexité épurée, car malgré les manoeuvres complexes, les installations en elles-mêmes restent simples, en d'autres mots, elles ne sont pas surchargées d'éléments venant à irriter le public. J'ai été d'autant plus fascinée par ces compositions lorsque l'on nous a avertit de l'illusion d'optique présente dans celles-ci.
 
  ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
