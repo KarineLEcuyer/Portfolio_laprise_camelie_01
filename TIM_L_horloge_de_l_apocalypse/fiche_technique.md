@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre ou de la réalisation
+ ## Titre de l'oeuvre 
  
  L'horloge de l'apocalypse
 
- ## Nom de l'artiste ou de la firme
+ ## Nom des artistes 
  
  Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
@@ -18,11 +18,11 @@
  
  Petit studio de son au Collège Montmorency
 
- ## Date de votre visite
+ ## Date de ma visite
  
  23 mars 2022
 
- ## Description de l'oeuvre ou du dispositif multimédia 
+ ## Description de l'oeuvre 
  
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
  
@@ -52,15 +52,15 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
 
  ## Expérience vécue :
 
- ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ ### - Description de mon expérience de l'oeuvre 
  
 J'avais déjà eu un avant-goût des décors et de leurs musiques, mais j'ai tout de même été agréablement surprise de la disposition des éléments et du résultat final. Je me suis vraiment sentie immersée par les scènes qui proposent, au commencement, un monde de paix où la nature règne pour éventuellement laisser place à un monde de guerre où la destruction domine. L'aspect visuel me sensibilise davantage, puisque c'est alors que je réussis à réellement voir les impacts des gestes que l'on commet. Ce projet explore le côté interactif d'une oeuvre en nous donnant plein contrôle, plus précisément, la possibilité de changer de scène en avançant ou reculant simplement l'aiguille dorée de l'horloge. En plus de cela, on termine avec une intention de rétrospection sur soi-même en projetant le répondant de l'appel à la fin du monde.  
 
- ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ ### - ❤️ Ce qui m'a plu
  
 Ce qui m'a majoritairement plu de *L'horloge de l'apocalypse* est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et de bien comprendre de quoi il s'agit. Aucun regret ni confusion s'en suit ainsi le message est sûr d'être intercepté. C'est très bénéfique quand l'objectif est de sensibiliser le public.  
 
- ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ ### - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement 
  
 Malgré le fait qu'il s'agit d'une bonne idée, je ne souhaiterais pas retenir la dernière partie du projet, c'est-à-dire lorsque l'on projète l'intéracteur qui décroche le téléphone, car cela ne plaît pas à tout le monde, spécialement les plus timides d'entre nous, d'être celui sur lequel les regards sont dirigés.
 
