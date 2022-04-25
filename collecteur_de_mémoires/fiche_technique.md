@@ -30,6 +30,10 @@ Montréal, en une expérience immersive. Il s’agissait également de révéler
 
 Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre inspiration dans les thèmes de l’eau, des saisons et dans l’histoire humaine du site. Des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. Combinant projection vidéo, éclairage, musique originale et images historiques, le « Collecteur de Mémoires » plonge les visiteurs dans une expérience lumineuse en mouvement, aussi inspirante qu’émouvante.
 
+**Description de l'oeuvre faite par *Moment Factory***
+
+![Image de la description de l'oeuvre faite par *Moment Factory*](medias/photographies/photo_description_oeuvre.png)
+
 (Ce texte est tiré de la page Web dédiée au *Collecteur de mémoires* sur le site de *Moment Factory*)
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
