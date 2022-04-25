@@ -42,8 +42,8 @@
 
  ## Liste des composantes et techniques de l'oeuvre 
  
- 1. Vidéos
- 2. Trame sonore
+ - Vidéos
+ - Trame sonore
  
  ![image des composantes](medias/photographies/photo_regie.jpg)
 
@@ -53,18 +53,18 @@
  
  ![image des éléments nécessaires pour la mise en exposition](medias/photographies/photo_elements_disposition.jpg)
  
- 1. Trois écrans
- 2. Deux câbles de soutien
- 3. Plateforme 
- 4. Six haut-parleurs
- 5. Six trépieds
- 6. Quatre tapis
- 7. Câbles
- 8. Ruban-cache noir
- 9. Chache-fil
- 10. Section régie
- 11. Projecteur
- 12. Huit plateaux de canalisation attachés par une sangle
+ - 3 écrans
+ - 2 câbles de soutien
+ - Plateforme 
+ - 6 haut-parleurs
+ - 6 trépieds
+ - 4 tapis
+ - Câbles
+ - Ruban-cache noir
+ - Chache-fil
+ - Section régie
+ - Projecteur
+ - 8 plateaux de canalisation attachés par une sangle
 
 ![image des câbles utilisés](medias/photographies/photo_cables.jpg)
 
