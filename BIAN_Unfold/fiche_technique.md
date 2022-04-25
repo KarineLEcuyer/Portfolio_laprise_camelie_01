@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre ou de la réalisation
+ ## Titre de l'oeuvre 
  
  *Unfold*
 
- ## Nom de l'artiste ou de la firme
+ ## Nom de l'artiste
  
  Ryoichi Kurokawa
 
@@ -18,7 +18,7 @@
  
  Arsenal art contemporain Montréal
 
- ## Date de votre visite
+ ## Date de ma visite
  
  9 février 2022
 
@@ -32,7 +32,7 @@
 
 ![image du cartel](medias/photographies/photo_cartel.jpg)
 
- ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+ ## Explications sur la mise en espace de l'oeuvre 
  
  ![image de l’ensemble de l’oeuvre de devant](medias/photographies/photo_oeuvre_ensemble.jpg)
  
@@ -40,7 +40,7 @@
  
  L’œuvre de Ryoichi Kurokawa se présente d’abord comme trois écrans se surmontant l’un par-dessus l’autre et ayant un angle chacun davantage aigu de manière à survoler au-dessus de nous. Celui se trouvant au-dessus de tous est retenu par deux câbles de soutien, c'est-à-dire en haut de chaque extémité, qui sont suspendus au plafond. Ensuite, une plateforme fait face à cette architecture afin d'inviter les visiteurs à aller s'asseoir. Elle permet de stimuler leur sens du toucher en transmettant les vibrations de l'installation multimédia. L’écart que sépare cette scène et les écrans est tapissé par quatre minces tapis noirs disposés sur la verticale. En poursuivant, cette disposition est entourée de six gros haut-parleurs sur trépied, soit deux à droite ainsi que deux autres à gauche, un derrière la plateforme pointant vers l'architecture, puis un dernier derrière les écrans. Ils stimulent le sens de l'ouïe en renvoyant différents sons. Tous sont liés à la scène au moyen de câbles qui sont recouverts d’un ruban-cache noir afin d’éviter de les endommager. De plus, de nombreux fils parcourent le long du tapis à l’extrémité de droite ainsi que certains derrière les écrans pour finalement tous se rejoindre derrière l'installation audiovisuelle. En effet, ils s’introduisent sous un cache-fil qui mène l’ensemble des câbles à la section régie où l’on contrôle le son de tous les œuvres dont *unfold*. On y trouve également un projecteur diffusant les nombreuses images accompagnant cette œuvre et stimulant ainsi le sens de la vue. Enfin, huit poteaux de canalisation liés par une sangle longent les tapis jusqu'à la régie pour éviter que les gens s'introduisent dans la section délimitée par ces piliers. 
 
- ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+ ## Liste des composantes et techniques de l'oeuvre 
  
  1. Vidéos
  2. Trame sonore
