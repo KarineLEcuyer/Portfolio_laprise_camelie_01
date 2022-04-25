@@ -51,7 +51,7 @@
  
  ![croquis de la mise en espace de l'oeuvre](medias/croquis/photo_croquis_oeuvre.jpg)
  
- ![image des éléments nécessaires pour la mise en exposition](medias/photographies/photo_elements_mis_en_disposition.jpg)
+ ![image des éléments nécessaires pour la mise en exposition](medias/photographies/photo_elements_disposition.jpg)
  
  1. Trois écrans
  2. Deux câbles de soutien
@@ -72,7 +72,7 @@
 
 ![image du cache-fil](medias/photographies/photo_cache_fil.jpg)
 
-![image de la régie](medias/photographies/photo_regie2.0.jpg)
+![image de la régie](medias/photographies/photo_regie_2.jpg)
 
  ## Expérience vécue :
 
