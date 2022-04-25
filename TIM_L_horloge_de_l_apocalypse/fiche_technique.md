@@ -46,9 +46,24 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
 
 ![Image de la scène de 8h](medias/photographies/photo_scene_8.png) 
 
- ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ ## Liste des composantes et techniques de l'oeuvre 
+ 
+ - Animations 
+ - Trame sonore
 
  ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ 
+ - Téléphone à roulette
+ - Trépied
+ - Piédestal romain
+ - Horloge à chiffres romains
+ - Câbles
+ - Ruban-cache noir
+ - 3 toiles blanches 
+ - 4 haut-parleurs
+ - 3 projecteurs vidéo lentille ultra wide 0.3
+ - Projecteur de lumière couleur
+ - 3 systèmes d'acrochage
 
  ## Expérience vécue :
 
