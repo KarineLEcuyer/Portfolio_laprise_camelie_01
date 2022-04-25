@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre ou de la réalisation
+ ## Titre de l'oeuvre 
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- ## Nom de l'artiste ou de la firme
+ ## Nom de l'artiste 
  
  Catherine Béchard et Sabin Hudon
 
@@ -18,12 +18,12 @@
  
  Salle Alfred-Pellan
 
- ## Date de votre visite
+ ## Date de ma visite
  
  16 mars 2022
 
- ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-
+ ## Description de l'oeuvre 
+ 
 S'activant via des détecteurs de mouvement, les sculptures murales qui composent la série Mécanismes de dessaisissement tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une au moyen d'un logiciel, les fines rayures qui caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l'expérience visuelle dans le temps. Par ailleurs, les dispositifs électromécaniques qui alimentent ces structures sont laissés visibles de façon à déjouer la pureté formelle de l'ensemble, entre autres à travers les lignes plus aléatoires que dessinent les fils électriques. 
 
 (Ce texte est tiré du cartel d'exposition de la salle Alfred-Pellan)
@@ -32,7 +32,7 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 
 ![Image du cartel](medias/photographies/photo_cartel.jpg)
 
- ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+ ## Explications sur la mise en espace de l'oeuvre
  
  **Vu d'ensemble de l'oeuvre**
  
@@ -52,13 +52,28 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
 
 ![Image de l'installation du cercle](medias/photographies/photo_cercle.jpg)
 
- ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ ## Liste des composantes et techniques de l'oeuvre 
+ 
+ - Morceaux de bois
+ - 6 plaques d'acrylique 
+ - 12 barres lumineuses
+ - 3 détecteurs de mouvement
+ - 6 poulies
+ - Chaînes
+ - Ressorts
+ - Vis
+ - Écrous
+ - Crochets
+ - 
 
- ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ ## Liste des éléments nécessaires pour la mise en exposition 
+ 
+ - Ruban noir
+ - Câbles
 
  ## Expérience vécue :
 
- ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ ### - Description de mon expérience de l'oeuvre 
  
  **Moi et mes amies devant la structure murale du rond de** ***Mécanismes de dessaisissement (rond, carré, triangle)***
  
@@ -66,11 +81,11 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  
 Durant la visite des oeuvres réalisées par les artistes en question, *Mécanismes de dessaisissement (rond, carré, triangle)* a tout particulièrement attiré mon regard dû à l'espace qu'il prenait ainsi que ses couleurs, absentes sur la majorité des autres oeuvres. En me rapprochant, les détails offerts dans les lignes et le mouvement des plaques d'acrylique m'ont beaucoup captivés. Ces structures murales se rendent uniques par leur complexité épurée, car malgré les manoeuvres complexes, les installations en elles-mêmes restent simples, en d'autres mots, elles ne sont pas surchargées d'éléments venant à irriter le public. J'ai été d'autant plus fascinée par ces compositions lorsque l'on nous a avertit de l'illusion d'optique présente dans celles-ci.
 
- ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ ### - ❤️ Ce qui m'a plu
  
 Ce qui m'a plu de *Mécanismes de dessaisissement (rond, carré, triangle)* est l'idée d'inclure une illusion d'optique à l'oeuvre, car elle amène une particularité de plus à l'oeuvre ce qui la rend davantage unique et lui permet de se démarquer des autres oeuvres. Ainsi, pousser son idée jusqu'au bout en développant une individualité à son oeuvre serait un concept à conserver et à reproduire. 
 
- ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ ### - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement 
  
  Je ne souhaiterais pas conserver le fait de laisser autant de fils visibles, je trouve personnellement que cela enlève un certain esthétique à l'oeuvre. 
  
