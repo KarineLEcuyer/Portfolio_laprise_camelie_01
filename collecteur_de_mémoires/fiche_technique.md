@@ -1,8 +1,8 @@
- ## Titre de l'oeuvre ou de la réalisation
+ ## Titre de l'oeuvre 
  
  Collecteur de mémoires 
 
- ## Nom de l'artiste ou de la firme
+ ## Nom de la firme
  
  Moment Factory
 
@@ -18,11 +18,11 @@
  
  Musée Pointe-à-Callière
 
- ## Date de votre visite
+ ## Date de ma visite
  
  16 février 2022
 
- ## Description de l'oeuvre ou du dispositif multimédia
+ ## Description de l'oeuvre
 
 Le musée Pointe-à-Callière a mandaté Moment Factory pour mettre en valeur le premier égout collecteur érigé en Amérique du Nord, un joyau historique d’ingénierie civile.
 
@@ -40,15 +40,17 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ## Expérience vécue :
 
- ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ ### - Description de mon expérience de l'oeuvre 
  
-Lorsque je suis entrée à l'intérieur de l'égoût, l'ambiance créée par les lumières m'a vraiment charmée. Cela amène un contraste entre la répugnance d'un égoût, généralement froid, dégoûtant et obscur. Je me sentais dans un autre monde, un peu fantaisiste, qui sort de l'ordinaire. Le parcours est surprenamment plus long que ce que j'imaginais même si je crois que pour certains il est trop court. La musique nous plonge davantage dans cet endroit féerique où le moindre bruit résonne. Cela approfondit d'autant plus cette sensation d'éloignement de la réalité qui est le monde extérieur. Les attentes que je m'avais faites de ce lieu historique devenu une expérience immersive ont été amplement comblées. 
+Lorsque je suis entrée à l'intérieur de l'égoût, l'ambiance créée par les lumières m'a vraiment charmée. Cela amène un contraste entre la répugnance d'un égoût, généralement froid, dégoûtant et obscur. Je me sentais dans un autre monde, un peu fantaisiste, qui sort de l'ordinaire. Le parcours est surprenamment plus long que ce que j'imaginais même si je crois que pour certains il est trop court. La musique nous plonge davantage dans cet endroit féerique où le moindre bruit résonne. Cela approfondit d'autant plus cette sensation d'éloignement de la réalité qui est le monde extérieur. Les attentes que je m'avais faites de ce lieu historique devenu une expérience immersive ont été comblées. 
 
- ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ ### - ❤️ Ce qui m'a plu
  
 Ce qui m'a spécialement plu était le jeu de lumières, j'ai vraiment trouvé que c'était l'élément qui transformait l'égoût en un passage amusant et spécial. Sans enlever l'obscurité complète de cet endroit, *Moment Factory* a décidé d'opter pour des lumières artificielles colorées au lieu de simples lumières blanches qui auraient compromis l'aspect sombre du lieu. Cela m'incite à utiliser ce type de lumières dans de futures créations. 
 
- ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ ### - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement 
+ 
+ Je pense que j'aurais mis des photographies le long des murs en plus de celles dévoilées au bout de l'égoût, car cela aurait été présenté plus comme un musée. En effet, selon moi, l'histoire derrière l'égoût aurait été davantage mis à l'avant en projetant des photographies de sa construction sur les murs du tunnel. 
  
  ## Références
  
