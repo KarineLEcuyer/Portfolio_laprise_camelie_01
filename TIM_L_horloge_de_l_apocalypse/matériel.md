@@ -41,8 +41,8 @@ Réseau
 
 Ordinateur
 
-1 ordinateur de l'école ou 2 si le premier ne suffit pas
-2 micro-contrôleur (Arduino)
+- 1 ordinateur de l'école ou 2 si le premier ne suffit pas
+- 2 micro-contrôleur (Arduino)
 
 Autre
 
