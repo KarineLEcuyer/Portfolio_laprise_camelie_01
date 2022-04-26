@@ -51,7 +51,7 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
  - Animations 
  - Trame sonore
 
- ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ ## Liste des éléments nécessaires pour la mise en exposition 
  
  - Téléphone à roulette
  - Trépied
