@@ -64,7 +64,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  - Vis
  - Écrous
  - Crochets
- - 
+ - Tubes carrés 
 
  ## Liste des éléments nécessaires pour la mise en exposition 
  
