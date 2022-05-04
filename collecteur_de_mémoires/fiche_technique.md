@@ -37,6 +37,10 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 (Ce texte est tiré de la page Web dédiée au *Collecteur de mémoires* sur le site de *Moment Factory*)
 
  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+ 
+ L'oeuvre se déroule à l'intérieur de ce qui était autrefois un égoût. Lorsque l'on franchit l'entrée de l'égoût, on est accueilli par des projections lumineuses alternant entre les couleurs froides et les couleurs chaudes, notamment du bleu au rose. L'obscurité de l'endroit s'éclaircit grâce à ses projecteurs de lumière qui sont placés tout le long du parcours artistique.
+ 
+ D'autres projecteurs sont situés également le long du tunnel. Ils s'identifient par des boîtes rectangulaires soutenus d'un support métallique et projètent des motifs ronds de diverses couleurs tels que le jaune, le rouge et le vert ressemblant étrangement à des étoiles lorsque l'on a une position éloignée de ceux-ci. La trame sonore se divulgue par l'entremise de petits haut-parleurs ayant une forme ovale dissimulés sur les côtés. On marche sur une grille cachant un système de dégagement de chaleur ce qui expliquerait probablement le choix de celle-ci. De plus, des petits passages dans l'égoût sont illuminés majoritairement de lumières jaunes grâce à de très petits projecteurs noirs liés par un fil noir se cachant dans les parrois de pierre. De nombreux câbles se perdent dans ces murs pour éviter qu'on ne les voit et garder l'aspect fantaisiste de l'oeuvre multimédia. Le parcours se termine sur une projection 
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
