@@ -42,7 +42,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
  
- - Projecteurs rectangulaires accompagnés de leur support métallique
+ - 15 projecteurs rectangulaires accompagnés de leur support métallique
  - Petits projecteurs
  - Trame sonore 
  - Illustrations
