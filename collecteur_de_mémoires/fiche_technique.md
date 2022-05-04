@@ -45,13 +45,12 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  - Projecteurs rectangulaires accompagnés de leur support métallique
  - Petits projecteurs
  - Trame sonore 
- - 
+ - Illustrations
 
  ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
  
  - Câbles
  - Petits haut-parleurs ovales
- - 
 
  ## Expérience vécue :
 
