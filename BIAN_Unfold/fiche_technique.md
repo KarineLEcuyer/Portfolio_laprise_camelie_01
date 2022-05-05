@@ -22,7 +22,7 @@
  
  9 février 2022
 
- ## Description de l'oeuvre ou du dispositif multimédia 
+ ## Description de l'oeuvre
  
  Kurokawa est un véritable poète du cinéma transformateur, transfigurant avec lyrisme les représentations analogiques de la nature perçue en flux numériques d'images et d'émotions vertigineuses. La précision architecturale de ses images fragmentaires synchronisées avec sensibilité, placées côte à côte sur notre rétine, tend à déplacer la persistance de la mémoire floue sous l'effet d 'une luminosité sans limite. Il considère l'élément audio et visuel comme les différents vecteurs d'une pièce unique et insiste sur le fait qu'ils doivent s'écouler ensemble pour entrer en collision en même temps. 
  
