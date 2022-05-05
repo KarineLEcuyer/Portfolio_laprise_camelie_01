@@ -73,7 +73,7 @@ J'avais déjà eu un avant-goût des décors et de leurs musiques, mais j'ai tou
 
  ### - ❤️ Ce qui m'a plu
  
-Ce qui m'a majoritairement plu de *L'horloge de l'apocalypse* est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et de bien comprendre de quoi il s'agit. Aucun regret ni confusion s'en suit ainsi le message est sûr d'être intercepté. C'est très bénéfique quand l'objectif est de sensibiliser le public.  
+Ce qui m'a majoritairement plu de *L'horloge de l'apocalypse* est le contrôle donné à l'utilisateur lorsqu'il est amené à avancer et à reculer les aiguilles comme il le veut. Cela permet d'expérimenter l'oeuvre pleinement et de bien comprendre de quoi il s'agit. Aucun regret ni confusion s'en suit ainsi le message est sûr d'être délivré. C'est très bénéfique quand l'objectif est de sensibiliser le public.  
 
  ### - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement 
  
@@ -88,6 +88,28 @@ Github
 Site Web 
 
 [Lien vers la page de renseignements de *L'horloge de l'apocalypse* sur le site de TIM](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+
+
+## Ordre de préférence des projets des finissants en TIM à la suite de l'exposition MOEBIUS
+
+1. Projet 5 (*L'horloge de l'apocalypse*), car le changement de l'ambiance par le défilement des diverses animations accompagnées de leur musique procure des sentiments variés qui mènent vers une expérience très intéressante jouant avec le ressenti des visiteurs que les autres projets n'ont pas.  
+
+2. Projet 4 (*Chronaufrage*), car les illustrations effectuées pour les animations étaient personnelles, c'est-à-dire qu'on voit vraiment le style propre des finissants ayant réaliser ces dessins. Ils étaient d'autant plus très beaux, le choix des couleurs était réfléchi, car les animations s'harmonisaient tous ensemble. La présentation des oeuvres étaient originales et la disposition était également pensée pour que l'aspect visuel soit attrayant. 
+
+3. Projet 1 (*Chère Sasha*), car de nombreux éléments avaient été incorporés de chaque côté de la chambre pour donner un aspect réaliste. J'ai été étonnée de voir autant de pages remplies dans les deux journals mis à la disposition des visiteurs, on remarque vraiment la quantité de travail dont il s'agit et leur dévouement à ce projet au plaisir des utilisateurs. De plus, les affiches accrochées ont également été réalisées par l'équipe. Cela apporte un côté unique et personnel à l'oeuvre multimédia. 
+
+4. Projet 3 (*Jeu Temporel*), car je m'attendais malheureusement à un plus grand changement physique chez le présentateur comme il avait été présenté. Ce dernier ne parlait pas assez, je crois qu'on aurait pu créer une expérience davantage intéressante si on lui aurait accordé un plus grand rôle tel que lui faire lire les questions. Cependant, la vidéo diffusée à la fin du jeu questionnaire a vraiment permis de sensibiliser les visiteurs en leur faisant rappeler que ce n'est pas qu'un simple jeu, mais la réalité.
+
+5. Projet 2 (*3 minutes*), car 
+
+6. Projet 6 (*Distorsion collective*), car
+
+
+
+
+
+
+
 
 
 
