@@ -1,10 +1,10 @@
  ## Titre de l'oeuvre 
  
- L'horloge de l'apocalypse
+ **L'horloge de l'apocalypse**
  
- **Vue d'ensemble de l'expérience**
+ ***L'horloge de l'apocalypse***
  
- ![Image d'ensemble de l'expérience](medias/photographies/photo_general_experience.png)
+ ![Image de l'expérience](medias/photographies/photo_general_experience.png)
 
  ## Nom des artistes 
  
