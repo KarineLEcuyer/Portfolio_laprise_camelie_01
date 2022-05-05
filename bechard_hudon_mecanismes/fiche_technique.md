@@ -2,7 +2,7 @@
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- Les ***Mécanismes de dessaisissement (rond, carré, triangle)***
+ **Les *Mécanismes de dessaisissement (rond, carré, triangle)***
  
  ![Image de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
 
