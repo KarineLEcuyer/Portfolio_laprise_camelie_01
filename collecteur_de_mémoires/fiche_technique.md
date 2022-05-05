@@ -2,6 +2,8 @@
  
  *Collecteur de mémoires*
  
+ **Vue d'ensemble de l'oeuvre**
+ 
  ![Image de l'oeuvre](medias/photographies/photo_egout.jpg)
 
  ## Nom de la firme
