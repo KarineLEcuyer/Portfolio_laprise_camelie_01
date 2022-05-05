@@ -40,14 +40,14 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  
  L'oeuvre se déroule à l'intérieur de ce qui était autrefois un égoût qui grâce à des poutres de soutien est devenu le *Collecteur de mémoires*. Lorsque l'on franchit l'entrée de cet endroit souterrain, on est accueilli par des lumières alternant entre les couleurs froides et les couleurs chaudes, notamment du bleu au rose. L'obscurité de l'égoût s'éclaircit grâce à ses lampes placées tout le long du parcours artistique qui sont recouvertes de blocs transparents pour diffuser la lumière. D'autres projecteurs sont situés également le long du tunnel. Ils s'identifient par des boîtes rectangulaires soutenus d'un support métallique qui projètent des motifs ronds de diverses couleurs tels que le jaune, le rouge et le vert ressemblant étrangement à des étoiles lorsque l'on a une position éloignée de ceux-ci. La trame sonore se divulgue par l'entremise de petits haut-parleurs ayant une forme ovale dissimulés sur les côtés. On marche sur une grille cachant des processeurs ce qui expliquerait probablement le choix de celle-ci qui empêche que le moteur de ces derniers ne s'étouffent. De plus, des petits passages dans l'égoût sont illuminés majoritairement de lumières jaunes grâce à de très petits projecteurs noirs liés par un fil noir se cachant dans les parrois de pierre. De nombreux câbles se perdent dans ces murs pour éviter qu'on ne les voit et garder l'aspect fantaisiste de l'oeuvre multimédia. Le parcours se termine sur une projection d'images historiques en alternance qui ont été modifiées pour qu'elles aillent un filtre vert et ainsi ressortir et s'harmoniser avec le reste de l'oeuvre. Le même projecteur que celui des motifs projètent ces photographies et un autre en suspension projète un effet de chûte par-dessus ces dernières.  
 
- ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+ ## Liste des composantes et techniques de l'oeuvre 
  
  - 15 projecteurs rectangulaires accompagnés de leur support métallique
  - Petits projecteurs
  - Trame sonore 
  - Illustrations
 
- ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+ ## Liste des éléments nécessaires pour la mise en exposition 
  
  - Câbles
  - Petits haut-parleurs ovales
