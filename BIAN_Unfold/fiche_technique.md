@@ -61,7 +61,7 @@
  
  ![Croquis de la mise en espace de l'oeuvre](medias/croquis/photo_croquis_oeuvre.jpg)
  
- **Vue de profil de la partie dissimulée derrière *Unfold***
+ **Vue de derrière de *Unfold***
  
  ![Image de profil de l’oeuvre](medias/photographies/photo_regie.jpg)
  
