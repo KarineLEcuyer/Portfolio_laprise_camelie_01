@@ -2,6 +2,10 @@
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
+ **Vu d'ensemble de l'oeuvre**
+ 
+ ![Image de l'ensemble de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
+
  ## Nom de l'artiste 
  
  Catherine Béchard et Sabin Hudon
@@ -33,10 +37,6 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 (Ce texte est tiré du cartel d'exposition de la salle Alfred-Pellan)
 
  ## Explications sur la mise en espace de l'oeuvre
- 
- **Vu d'ensemble de l'oeuvre**
- 
- ![Image de l'ensemble de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
  
 L'oeuvre des artistes mentionnés précédemment est composée de trois installations distinctes qui représentent tous une forme géométrique, soit le carré, le triangle ou le cercle. Ces dernières prennent la largeur d'un mur de la salle d'exposition et sont séparées par une certaine distance. Elles se présentent telles des structures murales tridimensionnelles dû à leur superposition d'éléments. D'abord, leur forme respective est délimitée en grand au mur avec du ruban noir créant ainsi un effet de profondeur. Ensuite, un morceau de bois coupé selon cette même forme sert de soutient aux deux plaques d'acrylique et permet de, notamment dissimuler le mécanisme caché derrière, mais également de détacher ces plaques du fond et de créer une meilleure projection de la lumière renvoyée par les quatre barres lumineuses. Celles-ci apportent une meilleure définition des lignes imprimées dans les plaques d'acrylique ayant la géométrie de leur forme respective, dont l'une est noire et l'autre d'une couleur qui est soit le bleu, le rouge ou le vert. De plus, le mouvement mécanique s'active et s'arrête en fonction du détecteur de mouvement inclu à chaque structure murale qui indique si une présence est détectée ou non. Si ce n'est pas le cas, le mécanisme peut donc se reposer, en plus d'économiser de l'électricité. Béchard et Hudon ont poussé l'idée de produire de la géométrie perceptuelle en intégrant un effet d'illusion d'optique lors de la superposition des deux formes d'acrylique. En effet, les lignes semblent défilées à une vitesse qui diffère selon la superposition exposée. Enfin, plusieurs câbles sont apparents dans les oeuvres, c'est-à-dire un rattaché à chacune des barres lumineuses et six autres au mécanisme dissimulé, et ce, pour chaque composition. 
 
