@@ -28,7 +28,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
  
  (Ce texte est tiré du résumé fait par l'équipe ayant réalisé l'oeuvre sur la page dédiée à *L'horloge de l'apocalypse* sur le site Web de TIM)
  
- ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+ ## Explications sur la mise en espace de l'oeuvre  
 
  **Vu d'ensemble de l'expérience**
  
