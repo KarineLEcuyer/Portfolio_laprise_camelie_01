@@ -47,14 +47,16 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  ## Liste des composantes et techniques de l'oeuvre 
  
  ![Image d'un projecteur rectangulaire soutenu par son support métallique](medias/photographies/photo_projecteur.jpg)
- ![Image d'un petit projecteur](medias/photographies/photo_eclairage.jpg)
+ ![Image d'un petit projecteur](medias/photographies/photo_petit_projecteur.jpg)
  
  - 15 projecteurs rectangulaires accompagnés de leur support métallique
  - Petits projecteurs
  - Trame sonore 
  - Illustrations
+ - Processeurs
 
-![Image d'une illustration projetée](medias/photographies/photo_fin_egout.jpg)
+![Image d'une illustration projetée](medias/photographies/photo_illustration.jpg)
+![Image d'un processeur](medias/photographies/photo_processeur.jpg)
 
  ## Liste des éléments nécessaires pour la mise en exposition 
  
