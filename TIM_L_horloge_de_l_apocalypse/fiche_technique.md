@@ -36,8 +36,6 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
  
 La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part des autres projets, c'est-à-dire dans le petit studio dédié originalement au son. D'abord, au bout de la pièce, un horloge sur trépied ainsi qu'un pédestal romain où repose un téléphone à roulette se présentent. Ils sont situés l'un à côté de l'autre dans le milieu de la pièce. Chacun est lié à un fil où ceux-ci se rejoignent, par la suite, sous un ruban-cache noir au sol. De plus, des toiles blanches recouvrent les murs, dont lui du milieu affiche un message de mise en situation. Celui-ci explique à l'utilisateur qu'il peut avancer et reculer les aiguilles de l'horloge, mais qu'à l'approche de minuit, il n'en sera plus le cas. Chaque heure dévoile une scène et une ambiance différentes qui se rapprochent progressivement vers un décor impacté négativement par l'humanité. L'ambiance est crée par la musique qui ressort des quatre haut-parleurs intallés au plafond. Les illustrations sont exhibées par le moyen de projecteurs accrochés au plafond également. Ces dernières parcourent les trois murs offrant un plus grand panorama et une expérience plus immersive, puisqu'elles englobent les visiteurs. Enfin, l'expérience se termine losrque le téléphone sonne et qu'un individu répond à l'appel de la fin du monde. Cette action est projetée de trois angles différents, donc une perspective par mur. 
 
-(Ces deux photographies sont tirées de la gallerie d'images de la page dédiée à *L'horloge de l'apocalypse* sur le site Web de TIM)
-
 **Scène de 2h**
 
 ![Image de la scène de 2h](medias/photographies/photo_scene_2.png)
@@ -45,6 +43,8 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
 **Scène de 8h**
 
 ![Image de la scène de 8h](medias/photographies/photo_scene_8.png) 
+
+(Ces deux photographies sont tirées de la gallerie d'images de la page dédiée à *L'horloge de l'apocalypse* sur le site Web de TIM)
 
  ## Liste des composantes et techniques de l'oeuvre 
  
