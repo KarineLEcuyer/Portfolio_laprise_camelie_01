@@ -54,7 +54,7 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
 
  ## Liste des composantes et techniques de l'oeuvre 
  
- **Le mécanisme dissimulé derrière le rond et le triangle de *Mécanismes de dessaisissement (rond, carré, triangle)*** 
+ **Les mécanismes dissimulés derrière le rond et le triangle de *Mécanismes de dessaisissement (rond, carré, triangle)*** 
  
  ![Image de derrière le rond de l'oeuvre](medias/photographies/photo_derriere_cercle.jpg)
  ![Image de derrière le triangle de l'oeuvre](medias/photographies/photo_derriere_triangle.jpg)
