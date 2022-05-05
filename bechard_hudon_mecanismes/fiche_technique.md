@@ -2,9 +2,9 @@
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- **Vue d'ensemble de l'oeuvre**
+ Les ***Mécanismes de dessaisissement (rond, carré, triangle)***
  
- ![Image de l'ensemble de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
+ ![Image de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
 
  ## Nom de l'artiste 
  
