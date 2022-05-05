@@ -56,6 +56,8 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ### - Description de mon expérience de l'oeuvre 
  
+ ![Image de moi à l'exposition](medias/photographies/photo_moi.png)
+ 
 Lorsque je suis entrée à l'intérieur de l'égoût, l'ambiance créée par les lumières m'a vraiment charmée. Cela amène un contraste entre la répugnance d'un égoût, généralement froid, dégoûtant et obscur. Je me sentais dans un autre monde, un peu fantaisiste, qui sort de l'ordinaire. Le parcours est surprenamment plus long que ce que j'imaginais même si je crois que pour certains il est trop court. La musique nous plonge davantage dans cet endroit féerique où le moindre bruit résonne. Cela approfondit d'autant plus cette sensation d'éloignement de la réalité qui est le monde extérieur. Les attentes que je m'avais faites de ce lieu historique devenu une expérience immersive ont été comblées. 
 
  ### - ❤️ Ce qui m'a plu
