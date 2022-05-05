@@ -50,7 +50,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ## Liste des composantes et techniques de l'oeuvre 
  
- **Projecteur rectangulaire soutenu d'un support métallique** &nbsp; &nbsp;**Petit projecteur éclairant un creux de l'égoût**
+ **Projecteur rectangulaire soutenu d'un support métallique** &nbsp; &nbsp; &nbsp; &nbsp;**Petit projecteur éclairant un creux de l'égoût**
  
  ![Image d'un projecteur rectangulaire avec son support métallique](medias/photographies/photo_projecteur.jpg)
  ![Image d'un petit projecteur](medias/photographies/photo_petit_projecteur.jpg)
@@ -61,7 +61,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  - Illustrations
  - Processeurs
 
-**Illustration historique diffusée à la fin de l'oeuvre**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Processeur dissimulé sous la grille**
+**Illustration historique diffusée à la fin de l'oeuvre**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Processeur dissimulé sous la grille**
 
 ![Image d'une illustration projetée](medias/photographies/photo_illustration.jpg)
 ![Image d'un processeur](medias/photographies/photo_processeur.jpg)
