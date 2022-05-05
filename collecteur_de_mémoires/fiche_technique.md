@@ -50,7 +50,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ## Liste des composantes et techniques de l'oeuvre 
  
- **Un projecteur rectangulaire soutenu d'un support métallique** &nbsp;**Un petit projecteur éclairant un creux de l'égoût**
+ **Projecteur rectangulaire soutenu d'un support métallique** &nbsp; &nbsp;**Petit projecteur éclairant un creux de l'égoût**
  
  ![Image d'un projecteur rectangulaire avec son support métallique](medias/photographies/photo_projecteur.jpg)
  ![Image d'un petit projecteur](medias/photographies/photo_petit_projecteur.jpg)
@@ -61,7 +61,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  - Illustrations
  - Processeurs
 
-**Une illustration historique diffusée à la fin de l'oeuvre**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Un processeur dissimulé sous la grille**
+**Illustration historique diffusée à la fin de l'oeuvre**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Processeur dissimulé sous la grille**
 
 ![Image d'une illustration projetée](medias/photographies/photo_illustration.jpg)
 ![Image d'un processeur](medias/photographies/photo_processeur.jpg)
@@ -71,11 +71,11 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  - Câbles
  - Petits haut-parleurs ovales
 
-**Un câble traversant les parois en pierre**
+**Câble traversant les parois en pierre**
 
 ![Image de câbles](medias/photographies/photo_cable.jpg)
 
-**Un petit haut-parleur ovale câché des visiteurs**
+**Petit haut-parleur ovale câché des visiteurs**
 
 ![Image d'un petit haut-parleur ovale](medias/photographies/photo_haut_parleur.jpg)
 
