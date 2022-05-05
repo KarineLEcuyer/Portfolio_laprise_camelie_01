@@ -85,9 +85,9 @@ Github
 
 [Lien vers le Github de *L'horloge de l'apocalypse*](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
-Site Web de TIM
+Site Web 
 
-[Lien vers la page de renseignements de *L'horloge de l'apocalypse*](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+[Lien vers la page de renseignements de *L'horloge de l'apocalypse* sur le site de TIM](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
 
 
