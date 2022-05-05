@@ -54,6 +54,11 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
 
  ## Liste des composantes et techniques de l'oeuvre 
  
+ **Le mécanisme dissimulé derrière le rond de ***Mécanismes de dessaisissement (rond, carré, triangle)*** 
+ 
+ ![Image de derrière le rond de l'oeuvre](medias/photographies/photo_derriere_rond.jpg)
+ ![Image de derrière le triangle de l'oeuvre](medias/photographies/photo_derriere_triangle.jpg)
+ 
  - Morceaux de bois
  - 6 plaques d'acrylique 
  - 12 barres lumineuses
@@ -70,6 +75,10 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  
  - Ruban noir
  - Câbles
+
+**Le mécanisme dissimulé derrière le carré de ***Mécanismes de dessaisissement (rond, carré, triangle)*** 
+
+![Image de derrière le carré de l'oeuvre](medias/photographies/photo_derriere_carre.jpg)
 
  ## Expérience vécue :
 
