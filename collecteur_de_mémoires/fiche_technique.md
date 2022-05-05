@@ -1,6 +1,6 @@
  ## Titre de l'oeuvre 
  
- Collecteur de mémoires 
+ *Collecteur de mémoires*
  
  ![Image de l'oeuvre](medias/photographies/photo_egout.jpg)
 
