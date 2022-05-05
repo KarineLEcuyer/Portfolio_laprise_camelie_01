@@ -83,7 +83,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
  ### - Description de mon expérience de l'oeuvre 
  
- Moi dans le *Collecteur de mémoires**
+ **Moi dans le *Collecteur de mémoires***
  
  ![Image de moi à l'exposition](medias/photographies/photo_moi.jpg)
  
