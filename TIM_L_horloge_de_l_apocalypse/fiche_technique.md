@@ -100,16 +100,6 @@ Site Web
 
 4. Projet 3 (*Jeu Temporel*), car je m'attendais malheureusement à un plus grand changement physique chez le présentateur comme il avait été présenté. Ce dernier ne parlait pas assez, je crois qu'on aurait pu créer une expérience davantage intéressante si on lui aurait accordé un plus grand rôle tel que lui faire lire les questions. Cependant, la vidéo diffusée à la fin du jeu questionnaire a vraiment permis de sensibiliser les visiteurs en leur faisant rappeler que ce n'est pas qu'un simple jeu, mais la réalité.
 
-5. Projet 2 (*3 minutes*), car 
+5. Projet 2 (*3 minutes*), car je n'ai pas particulièrment compris le but derrière l'expérience, le lien entre les deux parties de cette dernière m'a parru encore ambigu. Le concept était amusant, mais je crois que le projet aurait pu être un plus poussé. Le thème du temps aurait pu être mieux abordé. 
 
-6. Projet 6 (*Distorsion collective*), car
-
-
-
-
-
-
-
-
-
-
+6. Projet 6 (*Distorsion collective*), car créer une expérience liée avec la pandémie m'a parru un sujet trop facile et peu intéressant. De plus, je n'ai pas spécialement aimé la décoration des pièces, notamment le papier peint sur les murs qui procure un sentiment d'oppression. 
