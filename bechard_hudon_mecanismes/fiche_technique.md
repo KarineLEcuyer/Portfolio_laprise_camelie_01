@@ -2,7 +2,7 @@
  
  *Mécanismes de dessaisissement (rond, carré, triangle)*
 
- **Vu d'ensemble de l'oeuvre**
+ **Vue d'ensemble de l'oeuvre**
  
  ![Image de l'ensemble de l'oeuvre](medias/photographies/photo_complete_oeuvre.jpg)
 
