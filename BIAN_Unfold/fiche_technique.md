@@ -90,6 +90,6 @@
  
  ### Références
  
- Site web de l'Arsenal art contemporain Montréal
+ Site Web 
  
- [Lien vers la page informative de l'exposition](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2021-elektra-5e-biennale)
+ [Lien vers la page informative de l'exposition sur le site de l'Arsenal art contemporain Montréal ](https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2021-elektra-5e-biennale)
