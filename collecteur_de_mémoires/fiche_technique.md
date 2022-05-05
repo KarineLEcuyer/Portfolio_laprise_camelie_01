@@ -61,7 +61,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  - Illustrations
  - Processeurs
 
-**Une illustration historique diffusée à la fin de l'oeuvre** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Un processeur dissimulé sous la grille**
+**Une illustration historique diffusée à la fin de l'oeuvre** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Un processeur dissimulé sous la grille**
 
 ![Image d'une illustration projetée](medias/photographies/photo_illustration.jpg)
 ![Image d'un processeur](medias/photographies/photo_processeur.jpg)
