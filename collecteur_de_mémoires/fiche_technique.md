@@ -53,6 +53,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
  **Un projecteur rectangulaire soutenu par son support métallique**             **Un petit projecteur éclairant un creux de l'égoût**
  
  ![Image d'un projecteur rectangulaire avec son support métallique](medias/photographies/photo_projecteur.jpg)
+ 
  ![Image d'un petit projecteur](medias/photographies/photo_petit_projecteur.jpg)
  
  - 15 projecteurs rectangulaires accompagnés de leur support métallique
