@@ -22,7 +22,7 @@ Lorsqu'on visite le *Collecteur de mémoires*, on observe que des poutres de sou
 
 - Ce qui m'a spécialement plu était le jeu de lumières, j'ai vraiment trouvé que c'était l'élément qui transformait l'égoût en un passage amusant et spécial. Sans enlever l'obscurité complète de cet endroit, *Moment Factory* a décidé d'opter pour des lumières artificielles colorées au lieu de simples lumières blanches qui auraient compromis l'aspect sombre du lieu. Cela m'incite à utiliser ce type de lumières dans de futures créations. Cependant, je pense que j'aurais mis des photographies le long des murs en plus de celles dévoilées au bout de l'égoût, car cela aurait été présenté plus comme un musée. En effet, selon moi, l'histoire derrière l'égoût aurait été davantage mis à l'avant en projetant des photographies de sa construction sur les murs du tunnel. 
 
-- 
+- De nombreuses expériences immersives comme le *Collecteur de mémoires* ont été découvertes cette session-ci. On remarque que ce concept est pratiqué par plusieurs artistes qui le considèrent comme intéressant puisqu'il plonge complètement l'intéracteur dans son oeuvre.   
 
 # Conclusion
 
