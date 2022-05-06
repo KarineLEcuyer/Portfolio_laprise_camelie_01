@@ -10,8 +10,6 @@
 
 - Le site de *Moment Factory* décrive l'oeuvre comme suit : 
 > Le musée Pointe-à-Callière a mandaté Moment Factory pour mettre en valeur le premier égout collecteur érigé en Amérique du Nord, un joyau historique d’ingénierie civile.
-
-Montréal, en une expérience immersive. Il s’agissait également de révéler le génie de son infrastructure, tout en respectant l’intégrité historique du lieu et des paramètres techniques strictes. Enfin, il était crucial que les visiteurs ne se sentent pas trop à l’étroit dans cet espace souterrain insolite.
-
-Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre inspiration dans les thèmes de l’eau, des saisons et dans l’histoire humaine du site. Des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. Combinant projection vidéo, éclairage, musique originale et images historiques, le « Collecteur de Mémoires » plonge les visiteurs dans une expérience lumineuse en mouvement, aussi inspirante qu’émouvante.
+> Montréal, en une expérience immersive. Il s’agissait également de révéler le génie de son infrastructure, tout en respectant l’intégrité historique du lieu et des paramètres techniques strictes. Enfin, il était crucial que les visiteurs ne se sentent pas trop à l’étroit dans cet espace souterrain insolite.
+> Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre inspiration dans les thèmes de l’eau, des saisons et dans l’histoire humaine du site. Des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. Combinant projection vidéo, éclairage, musique originale et images historiques, le « Collecteur de Mémoires » plonge les visiteurs dans une expérience lumineuse en mouvement, aussi inspirante qu’émouvante.
 
