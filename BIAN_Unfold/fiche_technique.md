@@ -36,7 +36,7 @@
 
 ![Image du cartel](medias/photographies/photo_cartel.jpg)
 
- (Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
+ > Ce texte est tiré du cartel d'exposition du Arsenal art contemporain
 
  ## Explications sur la mise en espace de l'oeuvre 
  
