@@ -34,7 +34,7 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 
 ![Image du cartel](medias/photographies/photo_cartel.jpg)
 
-(Ce texte est tiré du cartel d'exposition de la salle Alfred-Pellan)
+> Ce texte est tiré du cartel d'exposition de la salle Alfred-Pellan
 
  ## Explications sur la mise en espace de l'oeuvre
  
