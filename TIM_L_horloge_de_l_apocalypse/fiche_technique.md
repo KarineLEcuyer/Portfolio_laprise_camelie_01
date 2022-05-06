@@ -67,6 +67,10 @@ La présentation de *L'horloge de l'apocalypse* se fait dans une salle à part d
  - Ensemble de détecteur de présence
  - 3 systèmes d'acrochage
 
+![Image d'un projecteur](medias/photographies/photo_projecteur.jpg)
+![Image de la caméra et d'un haut-parleur](medias/photographies/photo_camera_haut_parleur.jpg)
+![Image du détecteur de présence](medias/photographies/photo_detecteur_presence.jpg)
+
  ## Expérience vécue :
 
  ### - Description de mon expérience de l'oeuvre 
