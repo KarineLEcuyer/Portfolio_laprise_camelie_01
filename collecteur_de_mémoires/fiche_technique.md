@@ -38,7 +38,7 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
 ![Image de la description de l'oeuvre faite par *Moment Factory*](medias/photographies/photo_description_oeuvre.png)
 
-(Ce texte est tiré de la page Web dédiée au *Collecteur de mémoires* sur le site de *Moment Factory*)
+> Ce texte est tiré de la page Web dédiée au *Collecteur de mémoires* sur le site de *Moment Factory*
 
  ## Explications sur la mise en espace de l'oeuvre 
  
