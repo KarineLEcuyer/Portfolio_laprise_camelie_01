@@ -76,13 +76,13 @@ L'oeuvre des artistes mentionnés précédemment est composée de trois installa
  - Ruban noir
  - Câbles
 
-**Croquis de *Mécanismes de dessaisissement (rond, carré, triangle)*** 
-
-![Image de mon croquis de l'oeuvre](medias/croquis/photo_croquis_oeuvre.png)
-
 **Vue de profil du carré de *Mécanismes de dessaisissement (rond, carré, triangle)*** 
 
 ![Image de côté du carré de l'oeuvre](medias/photographies/photo_derriere_carre.jpg)
+
+**Croquis de *Mécanismes de dessaisissement (rond, carré, triangle)*** 
+
+![Image de mon croquis de l'oeuvre](medias/croquis/photo_croquis_oeuvre.png)
 
  ## Expérience vécue :
 
