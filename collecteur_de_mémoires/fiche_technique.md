@@ -79,6 +79,10 @@ Pour insuffler un esprit enchanteur à ce collecteur, nous avons puisé notre in
 
 ![Image d'un petit haut-parleur ovale](medias/photographies/photo_haut_parleur.jpg)
 
+**Croquis du *Collecteur de mémoires***
+
+![Image de mon croquis de l'oeuvre](medias/croquis/photo_croquis_oeuvre.png)
+
  ## Expérience vécue :
 
  ### - Description de mon expérience de l'oeuvre 
