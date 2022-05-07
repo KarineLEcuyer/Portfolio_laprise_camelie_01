@@ -57,7 +57,7 @@
  
  ## Liste des éléments nécessaires pour la mise en exposition 
  
- **Croquis de la mise en espace de l'oeuvre que j'ai réalisé**
+ **Croquis de *Unfold***
  
  ![Croquis de la mise en espace de l'oeuvre](medias/croquis/photo_croquis_oeuvre.jpg)
  
